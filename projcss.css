@@ -1,0 +1,51 @@
+header {
+	background-color: grey; 
+	display: block ruby;
+}
+
+#gameboard{
+	height: 600px;
+	background-color: lightgrey;
+	display: flex;
+	padding-top: 10%;
+}
+#hardware, #amelioration{
+	display: block ruby;
+	margin-left:10%;
+}
+td{
+	border: 2px solid black;
+	height: 45px;
+	width: 45px;
+}
+#entreprise{
+	margin-left: 1%;
+	width:40%;
+	background-color: blue;
+	height: 80%
+}
+
+#connecteur{
+	background-color: black;
+	width: 30%;
+	height: 10px;
+}
+
+#hacker{
+	background-image: url(https://fasttrakinc.com/fasttrakwp/wp-content/uploads/2015/04/spinningGlobe1-1.gif);
+	width:350px;
+	height: 280px;
+	border-radius: 50%;
+}
+#mechant{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	margin-left: 22%;
+	margin-top: 10%;
+	opacity: 0.7;
+}
+
+footer{
+	background-color: lightblue ;
+}
